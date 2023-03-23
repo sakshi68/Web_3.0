@@ -3,10 +3,13 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 run some of the following tasks:
 
 
+```
 npx hardhat compile
-npx hardhat clean
 npx hardhat help
 npx hardhat node
 npx hardhat accounts
 npx hardhat test
+npx hardhat clean
+``` 
+ 
  
